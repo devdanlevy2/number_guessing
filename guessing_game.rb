@@ -3,7 +3,6 @@ def generate_number
 end
 
 
-
 puts "hello, I am a computer, lets play a game."
 puts "can you guess my number (between 1 and 100 in 5 or less guesses?)"
 
